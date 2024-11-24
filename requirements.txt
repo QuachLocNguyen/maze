@@ -1,1 +1,2 @@
 simpleai
+streamlit-drawable-canvas
