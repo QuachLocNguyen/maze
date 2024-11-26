@@ -1,2 +1,3 @@
 simpleai
 streamlit-drawable-canvas
+matplotlib
